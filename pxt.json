@@ -1,0 +1,29 @@
+{
+    "name": "nim_2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "pxt-oled-ssd1306": "github:mkleinsb/pxt-oled-ssd1306#v1.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "master",
+        "tag": "v8.1.11",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/41d6b631a7a67619a6119b755d3db06cab4d72f8",
+        "target": "8.1.15",
+        "pxt": "12.2.8",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
